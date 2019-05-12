@@ -69,7 +69,6 @@
 			%>
 		</div>
 	</nav>
-	
 	<script src="jquery-3.1.0.min.js"></script>
 	<script src="js/bootstrap.js"></script>
 </body>
